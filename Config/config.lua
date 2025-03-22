@@ -98,7 +98,7 @@ Config.Fishes = {
 -- Configuration des vendeurs
 Config.Sellers = {
     Legal = {
-        coords = vector3(-1037.588745, -1397.167236, 5.553191),
+        coords = vector3(-1037.588745, -1397.167236, 4.553191),
         heading = 71.11415100097656,
         model = "s_m_m_dockwork_01",
         blip = {
@@ -111,7 +111,7 @@ Config.Sellers = {
         }
     },
     Illegal = {
-        coords = vector3(598.469116, 2785.985107, 42.191921),
+        coords = vector3(598.469116, 2785.985107, 41.191921),
         heading = 358.8505554199219,
         model = "g_m_y_lost_01",
         blip = {
